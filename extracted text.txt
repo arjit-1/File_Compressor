@@ -1,0 +1,4 @@
+Good Afternoon user,
+This software helpsyou to compress your text file.It uses Huffmann Algorithm for file compression.
+So use it for your needs and share your valuable feedback.
+Thank you Have a nice day:))
